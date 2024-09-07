@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hnbnguyen
 - 👀 Building projects that I want outside of work
-- 🌱 I’m currently learning jazz guitar
 - 📫 How to reach me baohanmimi@gmail.com
 
 <!---
