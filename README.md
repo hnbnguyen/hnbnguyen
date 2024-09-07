@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hnbnguyen
-- 👀 I’m interested in Machine Learning and Product Management
+- 👀 Building projects that I want outside of work
 - 🌱 I’m currently learning jazz guitar
 - 📫 How to reach me baohanmimi@gmail.com
 
