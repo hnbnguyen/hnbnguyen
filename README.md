@@ -13,4 +13,4 @@
           \________________________/
           (_)                    (_)
 
-   i read a lot, garden often, and code sometimes
+             i read and garden :) 
