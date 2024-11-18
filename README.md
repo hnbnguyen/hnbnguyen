@@ -14,5 +14,5 @@
           (_)                    (_)
 
              i read and garden :) 
-             i used to look at code as a mean to an end, now i'm trying to appreciate the beauty within the craft for its own sake
-             continuous improvement type shit
+             i used to look at code as a mean to an end, now i'm trying to appreciate it like a craft 
+             projects here to deep dive and learn on my own time
